@@ -1,6 +1,6 @@
 {
 	"name": "first-gulp",
-	"version": "0.0.1-beta",
+	"version": "0.0.1-beta2",
 	"description": "First Gulp project",
 	"main": "index.html",
 	"scripts": {
@@ -9,6 +9,7 @@
 	"author": "Bodzey",
 	"license": "ISC",
 	"devDependencies": {
+		"browser-sync": "^2.27.9",
 		"del": "^6.0.0",
 		"gulp": "^3.9.1",
 		"gulp-autoprefixer": "^6.1.0",
