@@ -1,5 +1,4 @@
 # gulp-template
-#
 #### _"Minimal stuff for fast and comfortable work"_
 
 ## Plugins:
