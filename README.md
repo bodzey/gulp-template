@@ -38,6 +38,10 @@ cd gulp-template
 ```
 npm install
 ```
+6. Run the gulp command in your project directory:
+```
+gulp
+```
 
 ## License
 ISC
