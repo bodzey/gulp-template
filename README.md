@@ -9,6 +9,7 @@
 - gulp-cssbeautify
 - gulp-cssnano
 - gulp-imagemin
+- gulp-notifier
 - gulp-plumber
 - gulp-rename
 - gulp-rigger
